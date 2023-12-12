@@ -16,7 +16,10 @@ public class Principal {
 	System.out.println ("editada por compañero");
 
 	
-	System.out.println ("eeditado becario") ;}
+	System.out.println ("eeditado becario") ;
+	
+	System.out.println ("trabajo en equipo") ;
+	}
 
 
 }
