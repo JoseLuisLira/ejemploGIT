@@ -8,6 +8,9 @@ public class Principal {
 	System.out.println ("git hubl");
 	
 	
-	System.out.println ("editada por compañero");}
+	System.out.println ("editada por compañero");
+	
+	
+	System.out.println ("eeditado becario");}
 
 }
